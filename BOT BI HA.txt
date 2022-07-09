@@ -1,0 +1,3 @@
+IP:MiNi_PlAyZ_111.aternos.me
+
+PORT:37927
